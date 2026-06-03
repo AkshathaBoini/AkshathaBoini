@@ -64,10 +64,10 @@ I'm a Full Stack Developer who loves building end-to-end applications that solve
 
 ### 🎓 [Auto Proctoring System](https://github.com/AkshathaBoini/Auto-Proctoring-System)
 > AI-driven automated exam monitoring system
-- **Computer Vision:** OpenCV + Mediapipe face landmark detection
-- **Audio:** Real time suspicious audio detection
-- **Features:** Face boundary box, cheat probability graph, session summary
 
+- **Computer Vision:** OpenCV + MediaPipe 3D face landmark detection for real-time head pose estimation
+- **Audio:** Auto-calibrated microphone monitoring with speech recognition for suspicious sound detection
+- **Features:** Face oval calibration guide, continuous beep alerts, violation logs, session summary
 ---
 
 ## 📫 Connect With Me
