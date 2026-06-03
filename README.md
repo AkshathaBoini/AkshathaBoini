@@ -49,7 +49,7 @@ AI-driven exam monitoring using OpenCV + Mediapipe — real time head pose and a
 
 ---
 
-⭐ *Authorized to work in the US on STEM OPT — no sponsorship required*## Hi there 👋
+
 
 <!--
 **AkshathaBoini/AkshathaBoini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
