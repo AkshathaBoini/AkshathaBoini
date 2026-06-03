@@ -2,7 +2,7 @@
 
 🎓 MS Computer Science Graduate @ University of Central Florida (GPA: 3.7)
 📍 Orlando, FL | 💼 Actively seeking Full Stack / Software Engineer roles
-⚡ Authorized to work in the US on STEM OPT — no sponsorship required
+
 
 ---
 
