@@ -10,7 +10,7 @@
 
 I'm a Full Stack Developer who loves building end-to-end applications that solve real problems. From ML-powered web apps to AI-integrated backend systems — I enjoy working across the entire stack.
 
-- 🔭 Currently building: **Intelligent Error Monitoring System** (Java + Spring Boot + AI)
+- 🔭 Recently built: **Intelligent Error Monitoring System** (Java + Spring Boot + React + AI)
 - 🌱 Learning: Advanced Java, System Design, DSA
 - 👩‍💻 Experience: Teaching Assistant @ UCF | Software Developer @ Millionminds
 - 📫 Reach me: akshathaboini@gmail.com
