@@ -70,14 +70,6 @@ I'm a Full Stack Developer who loves building end-to-end applications that solve
 
 ---
 
-## 📊 GitHub Stats
-
-![Akshatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshathaBoini&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaBoini&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshathaboini)
