@@ -70,6 +70,13 @@ I'm a Full Stack Developer who loves building end-to-end applications that solve
 - **Features:** Face oval calibration guide, continuous beep alerts, violation logs, session summary
 ---
 
+### 🛍️ [ShopEasy E-Commerce Platform](https://github.com/AkshathaBoini/shopeasy)
+> Full stack e-commerce web application with admin panel
+- **Frontend:** React.js with dynamic cart, category filter, and product detail pages
+- **Backend:** Node.js + Express REST API with JWT authentication and bcrypt password hashing
+- **Database:** MongoDB Atlas with Mongoose ODM for products, users, and orders
+- **Deployed:** Vercel (frontend) + Render (backend) — [Live Demo](https://shopeasy-topaz.vercel.app)
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshathaboini)
