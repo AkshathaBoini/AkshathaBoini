@@ -49,7 +49,7 @@ I'm a Full Stack Developer who loves building end-to-end applications that solve
 
 ## 🔥 Featured Projects
 
-### 🔍 [Intelligent Error Monitor](https://github.com/AkshathaBoini/Error-Monitor-app)
+### 🔍 [Intelligent Error Monitor](https://github.com/AkshathaBoini/Error-Monitor-app) — [🔗 Live Demo](https://error-monitor-app.vercel.app)
 > Full stack AI-powered error monitoring system
 - **Backend:** Java, Spring Boot, PostgreSQL, REST APIs
 - **Frontend:** React dashboard with severity color coding
