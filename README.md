@@ -74,7 +74,15 @@ I'm a Full Stack Developer who loves building end-to-end applications that solve
 - **Frontend:** React.js with dynamic cart, category filter, and product detail pages
 - **Backend:** Node.js + Express REST API with JWT authentication and bcrypt password hashing
 - **Database:** MongoDB Atlas with Mongoose ODM for products, users, and orders
-- **Deployed:** Vercel (frontend) + Render (backend) 
+- **Deployed:** Vercel (frontend) + Render (backend)
+
+🎯 [JobSync](https://github.com/AkshathaBoini/Jobsync)
+AI-powered job application tracker and interview prep tool
+
+- Backend: Java, Spring Boot, PostgreSQL, REST APIs, Docker
+- Frontend: React dashboard with application pipeline and stats
+- AI: Groq LLaMA model analyzes resume-to-JD match score, missing keywords, suggestions, and likely interview questions
+- PDF Parsing: Apache PDFBox extracts resume text directly from uploaded PDFs
 
 ---
 
