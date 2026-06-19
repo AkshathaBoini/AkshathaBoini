@@ -76,7 +76,7 @@ I'm a Full Stack Developer who loves building end-to-end applications that solve
 - **Database:** MongoDB Atlas with Mongoose ODM for products, users, and orders
 - **Deployed:** Vercel (frontend) + Render (backend)
 
-🎯 [JobSync](https://github.com/AkshathaBoini/Jobsync)
+### 🎯 [JobSync](https://github.com/AkshathaBoini/Jobsync)
 AI-powered job application tracker and interview prep tool
 
 - Backend: Java, Spring Boot, PostgreSQL, REST APIs, Docker
