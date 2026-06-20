@@ -71,8 +71,8 @@ I'm a Full Stack Developer who loves building end-to-end applications that solve
 
 ### 🛍️ [ShopEasy E-Commerce Platform](https://github.com/AkshathaBoini/shopeasy) — [🔗 Live Demo](https://shopeasy-topaz.vercel.app)
 > Full stack e-commerce web application with admin panel
-- **Frontend:** React.js with dynamic cart, category filter, and product detail pages
 - **Backend:** Node.js + Express REST API with JWT authentication and bcrypt password hashing
+- **Frontend:** React.js with dynamic cart, category filter, and product detail pages
 - **Database:** MongoDB Atlas with Mongoose ODM for products, users, and orders
 - **Deployed:** Vercel (frontend) + Render (backend)
 
